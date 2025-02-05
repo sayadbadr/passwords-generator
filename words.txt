@@ -1,5 +1,5 @@
-badr
-sayad
+Agadir
+Mohamed
 admin
 society
 logo
@@ -13,3 +13,9 @@ yassir
 Fibre
 inwi
 maroc
+Tanger
+Real
+python
+house
+dog
+book
