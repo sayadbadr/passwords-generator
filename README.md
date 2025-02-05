@@ -1,5 +1,5 @@
 these is some tools for generate the passwords from a word-lists
-<br>you can use the code "password.py" as a normal user
+<br>you can use this python program "password.py" as a normal user
 <br>______e.g: python password.py
 <br>______+Enter the path to your words file: g:\projects\words\words.txt
 <br>______+Enter the password length: 8
