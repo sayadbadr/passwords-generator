@@ -78,6 +78,8 @@ Examples:
 
 3️⃣ Custom Mode with Custom Characters
    python3 password.py -w words.txt -m c -p W,N,W -g 20 --numbers 123456789 --symbols #%$ -o custom_pswds.txt
+
+   @Sayadbadr enjoy ;)
 """,
     formatter_class=argparse.RawTextHelpFormatter
 )
